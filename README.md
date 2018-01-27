@@ -1,2 +1,3 @@
 # Natural-Language-Processing-with-Python
-The exercise of NLTK
+The exercises of NLTK
+Try hard, work hard.
